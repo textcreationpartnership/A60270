@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short essay towards the history and cure of fevers particularly of this new autumnal-fever. Humbly proposed to the consideration of the Royal Society, and the Colledge of Physicians, in order to the improvement of physick, and thereby th[e] benefit of our countrey-men. By W. Simpson Doctor in Physick.</title>
+            <author>Simpson, William, M.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60270</idno>
+            <idno type="STC">Wing S3836</idno>
+            <idno type="STC">ESTC R221489</idno>
+            <idno type="EEBO-CITATION">99832787</idno>
+            <idno type="PROQUEST">99832787</idno>
+            <idno type="VID">37261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short essay towards the history and cure of fevers particularly of this new autumnal-fever. Humbly proposed to the consideration of the Royal Society, and the Colledge of Physicians, in order to the improvement of physick, and thereby th[e] benefit of our countrey-men. By W. Simpson Doctor in Physick.</title>
+                  <author>Simpson, William, M.D.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Dorman Newman at the King's Arms in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "e" in "the" failed to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fever --  England --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37261:1" rendition="simple:additions"/>
+            <p>A SHORT ESSAY Towards the HISTORY and CURE OF FEVERS, Particularly of this New AUTUMNAL-FEVER.</p>
+            <p>Humbly propoſed to the Conſideration of the Royal Society, and the Colledge of Phy<g ref="char:EOLunhyphen"/>ſicians, in Order to the Improve<g ref="char:EOLunhyphen"/>ment of Phyſick, and thereby th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> benefit of our Countrey-Men.</p>
+            <p>By W. <hi>Simpſon</hi> Doctor in Phyſick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dorman Newman</hi> at the <hi>King's Arms</hi> in the <hi>Poultrey,</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:37261:2"/>
+            <pb n="1" facs="tcp:37261:2"/>
+            <head>A ſhort ESSAY towards the Hiſtory and Cure of Fevers, eſpecially of this new Autum<g ref="char:EOLhyphen"/>nal Fever, <hi>&amp;c.</hi>
+            </head>
+            <p>PReliminary Diſcourſes of the Na<g ref="char:EOLhyphen"/>ture of Fevers in general, I muſt for brevity's ſake ſtudiouſly o<g ref="char:EOLhyphen"/>mit, and refer the Reader to ſuch Authors as have made it their buſineſs to treat hereof, and particularly to the induſtrious and worthy Dr. <hi>Sidenhams</hi> Hiſtory of Fevers: It's my preſent task barely, firſt to relate the Hiſtory, giving a ſhort account of the moſt uſual ſymptoms that do accompany this new Fever; next, to propoſe the true Method of cure confirm'd by matter of Fact, the moſt evincing Teſtimony in the world. [Whence may probably elſewhere, as from a better Baſis, be raiſed an <hi>Hypo<g ref="char:EOLhyphen"/>theſis,</hi> different from what has gone be<g ref="char:EOLhyphen"/>fore].</p>
+            <pb n="2" facs="tcp:37261:3"/>
+            <p>As to the <hi>rationale,</hi> which order or method of proceeding, although by ſome it may poſſibly be lookt upon as empirical to propoſe the cure before erection of the <hi>Hypotheſis;</hi> yet I muſt neceſſarily crave leave to tell ſuch, that it has been the only way towards the curing of all diſeaſes, (ſince diſeaſes began to have a Being, or rather ſince the juices of our bodies began to be deprav'd and altered into thoſe ſpe<g ref="char:EOLhyphen"/>cifical differences towards mortality, we call diſeaſes) that ever has been known in the world, and that truly, becauſe of our ignorance in the nature of things, <hi>a priori,</hi> limiting now our Theories or <hi>Hypotheſis,</hi> (which are but a ſeries of notions fil'd to<g ref="char:EOLhyphen"/>gether, or methodically rang'd in order to the explicating the nature of things from their ſuppoſed cauſes) to the current of viſible <hi>phaenomena,</hi> attended with moſt obvious circumſtances. And in deed, at this door (<hi>viz.</hi> tryal of things) has been admitted all the known cures of diſ<g ref="char:EOLhyphen"/>eaſes, whatever the <hi>Hypotheſis</hi> hath been. And for my part, if I might freely ſpeak, I do really think (and that not without good grounds) that diſeaſes would be bet<g ref="char:EOLhyphen"/>ter cured, (the great work of Phyſitians) if all <hi>hypotheſes</hi> were ſwept off the ſtage, qeing greater <hi>remora</hi> to more noble diſ<g ref="char:EOLhyphen"/>buiſitions, and ſet-faſts to more generous
+<pb n="3" facs="tcp:37261:3"/>tryals, than we are truly aware of, which duely weighed, let the Reader excuſe me, if I take another track then what is vulgar, eſpecially if thereby I come more directly to the propoſed end.</p>
+            <p>Firſt, Then as to the Hiſtory of this new Fever, it appears under different diſguiſes; the moſt uſual ſymptoms that are the true emergent effects, and natural reſults there<g ref="char:EOLhyphen"/>of, are pains in the head and back, coldneſs, chilneſs, and in ſome down-right ſhaking; upon which follows intenſe burning-heat, thirſt, (in ſome more than in others) vio<g ref="char:EOLhyphen"/>lent and profuſe ſweatings, faintings, and great debilitudes, with a ſtupor in the head, and general indiſpoſedneſs, which is followed in many) by a <hi>delirium,</hi> attend<g ref="char:EOLhyphen"/>ed with ſlumbrings. It moſt-what emu<g ref="char:EOLhyphen"/>lates a <hi>Tertian</hi> by its paroxyſm, eſpecially for three or four, or more of the firſt aſ<g ref="char:EOLhyphen"/>ſaults; then afterwards in ſome appears under the guiſe of a <hi>quitidian;</hi> the pulſe is high with great diſorder: ſometimes (but more rarely) it begins with vomitings, and purgings, pains alſo at the ſtomack <hi>&amp;c.</hi>
+            </p>
+            <p>As to the cure (the main thing aim'd at, and of greateſt uſe for the benefit of pati<g ref="char:EOLhyphen"/>ents), The obſervations I made was, That although ſweating, or a moderate <hi>Regi<g ref="char:EOLhyphen"/>men,</hi> be the general and moſt uſual indi<g ref="char:EOLhyphen"/>cations for puriſying the blood; the one
+<pb n="4" facs="tcp:37261:4"/>by carrying off that which frequently caus'd a ſpurious Fermentation therein; the other by reducing the blood to its <hi>eucraſia,</hi> leſ<g ref="char:EOLhyphen"/>ſening its high-pac'd and furious Fermen<g ref="char:EOLhyphen"/>tation, rejecting its heterogeneous particles into ſome common ducts, which by Gliſters, Bliſters, <hi>&amp;c.</hi> are carried off, and thereby diſcharged. By both which Methods, the uſual ſymptoms of former Fevers, (but more by much from the latter than former), have frequently been taken off. Yet here I found, what by my own and others ob<g ref="char:EOLhyphen"/>ſervations, neither would perform the in<g ref="char:EOLhyphen"/>tended work, and eſpecially that the for<g ref="char:EOLhyphen"/>mer, <hi>viz.</hi> Sweating, did not (as often as tryal was made) ſucceed at all; the patients under ſuch ſweating Medicines, generally growing worſe and worſe, found that the profuſe Sweatings, patients ſpon<g ref="char:EOLhyphen"/>taneouſly fell into, were no other than ſymptomatical, which either carried off much of the ſpirits in a colliquating <hi>fluor,</hi> through the pores, (thoſe minute-ſluces of the body,) by precipitation, or other man<g ref="char:EOLhyphen"/>ner of ſeparation, leaving the fermentative matter behind unſequeſtred; or the <hi>exo<g ref="char:EOLhyphen"/>tick acidum,</hi> fix'd upon its own <hi>caput mortuum,</hi> only laid by againſt another pa<g ref="char:EOLhyphen"/>roxyſm, ready to be imbib'd to the pro<g ref="char:EOLhyphen"/>curing the next Fit; and all this to the great debilitude, faintings, and languiſhings of patients.
+<pb n="5" facs="tcp:37261:4"/>Whence I ſay, by many remarkable obſer<g ref="char:EOLhyphen"/>vations, I found that ſweating Medicines were no adequate remedy at all for the cure; nay further, were indeed wholly noxious, and where us'd, rendered the cure more difficult: whereupon I made bold to pro<g ref="char:EOLhyphen"/>hibit (in thoſe patients I was concern'd with) all manner of Sweating, as much as poſſible, by denying ſweating Medicines, (or at leaſt if I did adviſe any <hi>Diaphore<g ref="char:EOLhyphen"/>ticks,</hi> it was ſo ordered, as not at all to cauſe any ſenſible ſweat), and by ordering thoſe heaps of clothes to be taken off, with which they uſually loaded themſelves, (and that ſometimes by the advice of ſome Phy<g ref="char:EOLhyphen"/>ſitian), through the blind hopes of advan<g ref="char:EOLhyphen"/>tage by ſweating, finding hereby no diſad<g ref="char:EOLhyphen"/>vantage at all to accrue to the patient; although no Medicine ſhould have been preſcrib'd, but only a due temperate <hi>Regi<g ref="char:EOLhyphen"/>men</hi> to be obſerv'd, which doubtleſs is a much better way, and the patient ſhall come off with leſs loſs of ſpirits and ſtrength, by this than by ſweating Medicines.</p>
+            <p>Whereupon that I might the better proſe<g ref="char:EOLhyphen"/>cute my deſign, I ſet upon the preparation of a Chymical <hi>Arcanum,</hi> which I hop'd would prove generous in the ſucceſsful cure of Fevers in general, eſpecially and more particularly of this new-minted Fever, re<g ref="char:EOLhyphen"/>ſulting from the late viciſſitude of wea<g ref="char:EOLhyphen"/>ther,
+<pb n="6" facs="tcp:37261:5"/>and interchange of ſeaſons, thereby diſpoſing the blood (in which this diſ<g ref="char:EOLhyphen"/>eaſe chiefly lay) to thoſe new ſorts of Fer<g ref="char:EOLhyphen"/>mentation which give being to this Fever. I wrought day and night till I had brought it on ſo far, as that upon tryal I found it a very noble and generous Medicine, hit<g ref="char:EOLhyphen"/>ing exactly upon this Fever, as peculiarly adapted thereto, anſwering my expectati<g ref="char:EOLhyphen"/>on, yea far tranſcending it, even to aſtoniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The firſt tryal I had of this noble <hi>Arca<g ref="char:EOLhyphen"/>num</hi> (thus prepared) was upon two Sea<g ref="char:EOLhyphen"/>men; the one of which had this Fever in a very intenſe degree, even to a <hi>delirium,</hi> with profuſe and exhauſting ſweatings, which I hop'd to take off by the more beaten track of Bliſters, Gliſters, Spirit of Hartſhorne, Milk and Water, and for a while thereby he ſeemed to recover; (having not then prepared this Medicine) but it happened his Fever came afreſh upon him again, with the recurring of the wonted ſymptoms; and when the Apothecary brought me word what a dangerous con<g ref="char:EOLhyphen"/>dition he was in, and delirous, I had then almoſt finiſhed my propos'd circle of operations upon my Medicine; however, as it was, ventur'd to ſend him two or three doſes, which I ordered the Apothe<g ref="char:EOLhyphen"/>cary to give him in Black-Cherry water, at
+<pb n="7" facs="tcp:37261:5"/>ſuch and ſuch intervals of time. The Apo<g ref="char:EOLhyphen"/>thecary at the ſame time gave me alſo an account of the other patient I had been ſent for to that day, to whom after blood<g ref="char:EOLhyphen"/>ing I had preſcrib'd a Gliſter, and Milk and Water for his ordinary drink: the ac<g ref="char:EOLhyphen"/>count was that he grew worſe and worſe, the Fever was growing ſtronger upon him, and that he alſo was delirous. Where<g ref="char:EOLhyphen"/>upon I ordered him of the ſame Medicine, thirty drops in three ounces of Black Cherry<g ref="char:EOLhyphen"/>water, to be taken at convenient diſtances of time in the night. Word was brought me next morning, that the Fever in both was ſo allayed, as they thought it was quite gone; both ſlept very well, their thirſt wonderfully quenched, and their <hi>delirium</hi> quite taken off. This was ſurprizing news, but deſiring to be further ſatisfied of the truth thereof, I went my ſelf to ſee them both, and found indeed the relation I had to be true; one of them had ſlept very well that night, after taking once or twice of his Medicine, and in the morning call'd for ſome food, and was when I went fallen a ſleep after his repaſt, and they told me was ſo well, as had thoughts of going abroad that day; notwithſtanding that he had had his Fever upon him for near a week, at tended with violent heat and ſweatings, <hi>&amp;c.</hi> The other I ſound was got up, and pretty
+<pb facs="tcp:37261:6"/>cheerful, and I think had taken ſome food too: and from that time the Fever never return'd, and they without any more ado recovered very well: only this is remark<g ref="char:EOLhyphen"/>able, that the former of them, who had been blooded, vomited, and purg'd, and (if I miſtake not) ſome ſweating hot Medicines given before I was ſent for, and had been a week under ſuch a <hi>Regimen,</hi> who notwith<g ref="char:EOLhyphen"/>ſtanding all this grew worſe and worſe. I ſay that which is much to be noted in this patient, (and wherein he differed from the other) was, that I obſerved that he recover<g ref="char:EOLhyphen"/>ed not ſo faſt by far as the other; the reaſons whereof (<hi>viz.</hi> the great exhauſtion of ſpirits, and <hi>debilitude</hi> of ſtrength, what by the Fever, and the medicinal Method he was treated with) are obvious to every eye.</p>
+            <p>Another tryal I had was upon a Tradeſ<g ref="char:EOLhyphen"/>mans daughter, of about 10 or 11 years of age, who having labour'd under this Fever for about ten days; they mean while had the advice of a learned Phyſitian twice, (whoſe name to prevent reflection I willing<g ref="char:EOLhyphen"/>ly conceal) who had put her upon Sweating, and Gliſters: notwithſtanding all which at<g ref="char:EOLhyphen"/>tempts (ſet on by the Galenical Method) her Fever grew higher and higher at every paroxyſm; the ſymptoms more ſevere, and ſhe at length delirous: I was ſent for, would
+<pb n="9" facs="tcp:37261:6"/>have conſulted with the Phyſitian firſt ad<g ref="char:EOLhyphen"/>vis'd with; but being at a diſtance, the Pa<g ref="char:EOLhyphen"/>rents were reſolv'd ſolely to adhere to my advice: Whereupon I preſently took off the heap of clothes, they had by advice in order to further Sweating laid upon her, (they ſuſpecting malignity in the caſe) and it was feared (ſhe being ſo extreamly weak<g ref="char:EOLhyphen"/>ened, what with the Fever and preſſures to ſweat) that the next fit would have carried her away: I ordered the Apothecary to give her three doſes in Black Cherry-water, at about three hours interval from each o<g ref="char:EOLhyphen"/>ther; being the very day before her ex<g ref="char:EOLhyphen"/>pected Fit (which the night following) was to come: ſhe being at eaſe from the weight of clothes, after the firſt or ſecond doſe fell aſleep very ſweetly, and in lieu of her ex<g ref="char:EOLhyphen"/>pected Fit, ſhe ſlept very well, and ſcarce drank any thing all night; and the next morning when I went, found the ſcene quite altered for the better; the Fever and its attendants had made their <hi>exit,</hi> ſhe cheerful, very ſenſible, her <hi>ſtupor</hi> being gone, which before ſhe had had (both during the paroxyſm and interval) and call'd for food that day, which ſhe eat without being ſick at all, but fell to ſleep after. I went ſeve<g ref="char:EOLhyphen"/>ral days to ſee her, ſhe continued recover<g ref="char:EOLhyphen"/>ing, but ſlowly, becauſe of the great lan<g ref="char:EOLhyphen"/>guiſhment ſhe had been brought to before.</p>
+            <pb n="10" facs="tcp:37261:7"/>
+            <p>The next I gave it to was a man who had languiſhed for about 10 days under this Fever, had violent ſweating, ſpontane<g ref="char:EOLhyphen"/>ous, beſides what was artificially contracted by <hi>Venice-Treacle,</hi> or ſome ſuch heating Medicines: I askt him if he was mindful to be cured (for I was occaſionally in his houſe) if ſo I would cure him for nothing, (being ſtill deſirous of making further tryals of my <hi>Arcanum</hi>); yes willingly he anſwer<g ref="char:EOLhyphen"/>ed, and thank me too, and ſhould look upon it as a providence towards him: with that I ordered him ſome of the aforeſaid Medicine, three or four doſes in <hi>Thames-water</hi> (he having no diſtilled Water by him), as alſo as much the day after in ſpring<g ref="char:EOLhyphen"/>water, being the day before his Fit was to come, took them, and had no Fit then nor after; for I call'd once or twice on purpoſe to enquire, was gone abroad, and pretty well as his wife told me. This is what is done in the main, only I order at the heel of the Fever a purge to carry off the preci<g ref="char:EOLhyphen"/>pitated matter, or other rejected feculencies, to prevent the foundation for future diſ<g ref="char:EOLhyphen"/>eaſes which might thence ariſe.</p>
+            <p>As to the operation of this <hi>Arcanum,</hi> which ſo ſtrangely quieteth the ſeditious tumult of the blood and ſpirits, allayeth the feveriſh heat, and thirſt, and as a great anodyne in this Fever, compoſeth to ſleep
+<pb n="11" facs="tcp:37261:7"/>and quiet reſt, and yet hath not one grain of <hi>opium</hi> in it; add to which it taketh off <hi>deliriums,</hi> which no <hi>opium</hi> doth, although prepared after the beſt manner that I know: as to which operation, I ſay have not yet in all my tryals met with any thing compara<g ref="char:EOLhyphen"/>ble thereto, and yet is but in its minority, in the road to further improvement.</p>
+            <p>For it neither operates by vomit, purg<g ref="char:EOLhyphen"/>ing, or ſweat, has no ſenſible operation at all, ſave that the ſymptoms go off, and the Fever diſappears.</p>
+            <p>As to the ingredients of it, I ſhall ſpeak ſomething, darkly enough (as others in things of the like nature uſually do), it's in ſhort, therefore prepar'd with a Mine<g ref="char:EOLhyphen"/>ral, by an Animal, and vegetable <hi>menſtruum</hi> brought on by a circuit of operations to its expected height: as to which I confeſs this is but <hi>in limine,</hi> to what is intended, and to which it's capable of being brought. Which when compleated by what I have already ſeen of its operation in its ſtate of Infancy, may <hi>ex ungue leonem,</hi> eaſily con<g ref="char:EOLhyphen"/>jecture; it will when perfected, and come to its full ripenſs and perfection, be one of the beſt Medicines in the world for the cure of moſt, if not all ſorts of acute diſeaſes, <hi>viz.</hi> Fevers, Agues, Pleuriſies, ſmall Pox, Gripes, and the diſeaſe <hi>morbus Cholera,</hi> and dyſente<g ref="char:EOLhyphen"/>ries thence emerging, the graduating of which
+<pb n="12" facs="tcp:37261:8"/>
+               <hi>menſtruum,</hi> that it may the better work upon the aforeſaid mineral, and both be brought to their <hi>acmè,</hi> is the work I am now intent upon, which <hi>Arcanum</hi> hides in it ſelf a noble, but inviſible <hi>ſulphur</hi> of great energy in compoſing and quieting the tumults of the ſtomack, and inteſtines, apparent in the acuteſt of Fevers, call'd <hi>morbus Cholera,</hi> as alſo in Dyſenteries, both which it cures almoſt infallibly. As to the now graſſant Epidemick Fever (at<g ref="char:EOLhyphen"/>tended with its peculiar, but various ſymp<g ref="char:EOLhyphen"/>toms) a worthy and ingenious Friend of mine (to whom I am in theſe affairs high<g ref="char:EOLhyphen"/>ly obliged) has frequently try'd this <hi>Ar<g ref="char:EOLhyphen"/>canum,</hi> as alſo in <hi>Pleuriſies, Morbus Cholera,</hi> and Dyfenteries, even with admirable ſucceſs.</p>
+            <p>This Medicine ſucceeds the beſt, if taken according to a right Method, at the be<g ref="char:EOLhyphen"/>ginning, or firſt days of a Fever, and that eſpecially in Fevers of Children, where it ſeldom fails: But we do not propoſe it as Univerſal in the Cure of all Fevers; for if the Fever have continued long, and that Sweating, or other debilitating Medicines have been given, by which the ſpirits are exhauſted, the Ferments deprav'd, and the whole Maſs of blood and other juices brought into an <hi>Ataxy,</hi> or if the compage of the blood be too much relaxed by an
+<pb n="13" facs="tcp:37261:8"/>immoderate cooling <hi>Regimen,</hi> then it has not the expected ſucceſs; therefore in ſuch and the like caſes other Methods muſt be us'd, or this muſt be higher graduated by further preparation. What thoſe Me<g ref="char:EOLhyphen"/>dicines and right Methods are which may conduce to the Cure of Fevers in general, we ſhall elſewhere in our <hi>Pyretologia,</hi> or Eſſay to an <hi>Hypotheſis</hi> of Fevers, take the liberty to declare.</p>
+            <p>And as to <hi>Tertian</hi> and <hi>Quartan Agues,</hi> thoſe obſtinate, and to common Method rebellious diſeaſes, I know two Doctors in Phyſick (both worthy, learned, and judicious men) who beſides my ſelf have a certain and almoſt infallible Method of Curing them, without either Vomit, Purge, Sweat, or other ſenſibly operating Medi<g ref="char:EOLhyphen"/>cines; ſo certainly, as ſcarce one in ten ſhall either fail or relapſe; ſo quickly, as they ſhall hear no more of their Ague af<g ref="char:EOLhyphen"/>ter the firſt or ſecond days preſcription; and ſo eaſily, as it's done without any ſen<g ref="char:EOLhyphen"/>ſibly working Medicine; whereby the three grand indications are anſwered of Curing, <hi>Tutò, citò ac jucundè,</hi> the great work of Phyſicians.</p>
+            <p>To ſay nothing here how we know a certain, quick, and pleaſant Method for curing <hi>Cmvulſions</hi> without danger of re<g ref="char:EOLhyphen"/>laps, (thoſe to common Method refractory
+<pb n="14" facs="tcp:37261:9"/>diſeaſes) as for the former. To confirm the truth of which we might, if at leaſure, give conſiderable and remarkable inſtances by matter of Fact. Nor here further, then to name our effectual and ſpeedy way of curing venereal Diſeaſes: as to all which we are reſolv'd (for brevity's ſake) not further here to inſiſt thereon, but ſhall re<g ref="char:EOLhyphen"/>fer the diſcourſe thereof to another op<g ref="char:EOLhyphen"/>portunity.</p>
+            <p>Theſe things I the rather name, and but tranſiently hint, partly thereby to demon<g ref="char:EOLhyphen"/>ſtrate by matter of Fact, that ſomewhat beſides, and beyond the wonted Methods, are truly worthy Phyſicians beſt Eſſays; and to put them upon new attempts, and freſh diſcoveries, in finding out Re<g ref="char:EOLhyphen"/>medies ſuitable and appropriate to every emergent Malady.</p>
+            <p>And now, if any moroſe humour'd man (as perhaps ſuch their may be found) ſhall enviouſly call me a Quack, I ſhall anſwer by querying, whether he that can Cure diſeaſes, or he that cannot, is the Quack? Let them call me ſo, I value it not; if I can but ſucceſsfully cure diſeaſes, the great aim (at leaſt ſhould be) of all Phyſicians: They may upon the like grounds give the ſame name to <hi>Riverius,</hi> and to thoſe other worthy, judicious, and learned men after<g ref="char:EOLhyphen"/>mentioned.</p>
+            <pb n="15" facs="tcp:37261:9"/>
+            <p>And laſtly, As to ſuch who ſhall <hi>Momus</hi> like, enviouſly carp at any thing, not to be had in their own Vulgar beaten Track, who hereby give a large and clear evi<g ref="char:EOLhyphen"/>dence of the ignobleneſs of their ſouls, in that they neither are willing themſelves to ſearch into the myſteries and wonders of nature, not daring to put their labori<g ref="char:EOLhyphen"/>ous hand to draw the curtain nature has vail'd her choiceſt ſecrets with: nor (which is yet worſe) are they pleas'd with ſuch as really and ſucceſsfully do, envying thoſe whoſe labours nature has crown'd by her bountiful denation and liberal diſcovery of her ſelf; to ſuch (beſides the deformed Idea's which may eaſily rebound from the reflecting glaſs in their own breſt, enough to affright an ingenious and ingenuous ſoul); I would anſwer in ſhort, by bid<g ref="char:EOLhyphen"/>ing ſuch ignorant and envious ſpirits, be ſilent, and caſt their eye backward to for<g ref="char:EOLhyphen"/>mer Ages, and conſider, that beſides the ancient <hi>Hermetick Arcanum,</hi> kept a-foot in all ages of the world, the fam'd <hi>Hippocrates</hi> had his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (ex inguiſh'd as much as could be by his ſucceſſor <hi>Galen</hi>).</p>
+            <p>To ſay nothing of the two Pillars of new diſcoveries in Phyſick, <hi>viz.</hi> the fam'd <hi>Pa<g ref="char:EOLhyphen"/>racelſus</hi> and <hi>Helmont;</hi> nor yet more than to mention the <hi>Hybernian Butler,</hi> with his <hi>Elixir ſalis,</hi> or <hi>lapis ignis,</hi> by which won<g ref="char:EOLhyphen"/>derful
+<pb n="16" facs="tcp:37261:10"/>cures were perform'd. Had not <hi>Po<g ref="char:EOLhyphen"/>terius</hi> his <hi>Arcana,</hi> by which he effected wonderful cures, as alſo <hi>Rulandus, Angelus Sala,</hi> &amp;c.?</p>
+            <p>And to look to contemporaries to this very century, had not <hi>Riverius</hi> his <hi>Febri<g ref="char:EOLhyphen"/>fugum</hi> (a Remedy in effect parallel to ours)? had not the learned <hi>Langius</hi> his ſecrets, as his <hi>Miſcellanea curioſa Medica</hi> teſtifie? Had not Dr. <hi>Daviſon,</hi> Phyſician extraordinary to the <hi>French</hi> King, famous for his Chymi<g ref="char:EOLhyphen"/>cal writings, his <hi>Arcanum</hi> for curing the <hi>Lues venerea,</hi> for which the Phyſicians in <hi>Paris</hi> gave him 20000 Piſtols for diſco<g ref="char:EOLhyphen"/>vering it to them, and to deſiſt practice (only to the Kings Perſon)? Was not Dr. <hi>Anthony</hi> famous for his <hi>aurum potabile?</hi> Had not the Learned and Induſtri<g ref="char:EOLhyphen"/>ous <hi>Silvius,</hi> Univerſity-profeſſor of <hi>Leiden,</hi> his <hi>Sal volatile oleoſum,</hi> prepar'd by his own hand? yea, had not our famous Country<g ref="char:EOLhyphen"/>man Dr. <hi>Willis,</hi> his ſecret preparation of Steel, and other <hi>Arcana's</hi> he kept to him<g ref="char:EOLhyphen"/>ſelf?</p>
+            <p>And to look now abroad into forreign parts, may not the learned and worthy <hi>Borrichius</hi> be reckoned amongſt this Claſſis? as alſo <hi>Langelotus, Balduinus, Tackius, Mor<g ref="char:EOLhyphen"/>hofus, Kerkringius, Tachenius, Becherus,</hi> &amp;c. whoſe Writings in ſpight of Envy have made them famous.</p>
+            <pb n="17" facs="tcp:37261:10"/>
+            <p>But to return home, and there to wrap up, have we not of the very Colledge of Phyſicians famous men, learned and judici<g ref="char:EOLhyphen"/>ous? <hi>viz.</hi> Dr. <hi>Rugeley,</hi> Dr. <hi>Dickenſon,</hi> Dr. <hi>Goodal,</hi> who have their <hi>Arcana,</hi> which they uſe in their practice? and for the preſent, to compleat the number, till another more worthy be added, why may not I as the leaſt of all the aforeſaid caſt in my mite to this of Natures Treaſury? If thereby I ex<g ref="char:EOLhyphen"/>cite other ingenious men to the laudable attainments in ſearching the hidden ſecrets of Nature for the improvement of the noble Art of Healing; that the deſire of filthy lucre being laid aſide, we may be more ſtu<g ref="char:EOLhyphen"/>dious really to cure (to anſwer the great intention of our Employ) and may there<g ref="char:EOLhyphen"/>by (if God will) live to ſee a new Scene of Phyſick appear, even more certain; and therefore more amiable than ever it hath been ſince the days of <hi>Solomon</hi> (who knew the vertue of all things in the three-fold Kingdom of Nature) I ſhall have what I aim at; of which more elſewhere.</p>
+            <p>Our <hi>Hypotheſis</hi> for the ſolution of the uſual <hi>Phoenomena</hi> or ſymptoms of Fevers, as alſo for the rendring a more intelligible account of the ſucceſsful operation of <hi>Ar<g ref="char:EOLhyphen"/>cana</hi> in the cure thereof, we deſignedly o<g ref="char:EOLhyphen"/>mit
+<pb n="18" facs="tcp:37261:11"/>here, reſerving it to another opportu<g ref="char:EOLhyphen"/>nity, where we ſhall give a more ample re<g ref="char:EOLhyphen"/>lation of the further ſucceſsful tryals of on Medicines by matter of fact.</p>
+            <closer>
+               <dateline>From my Houſe in <hi>Chappel-ſtreet</hi> near <hi>New Chappel, Weſtminſter, London.</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37261:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
